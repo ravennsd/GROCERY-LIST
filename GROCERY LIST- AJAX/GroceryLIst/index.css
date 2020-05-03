@@ -1,23 +1,25 @@
 html,body{
     margin: 0px;
     padding: 0px;
-    background-color: wheat;
+    background-color:rgb(212, 233, 119);
+    
 }
 
 #head{
+  height:70px;
+  padding: 0%;
+  margin: 0%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: forestgreen;
-    background-color: thistle;
+    background-color:greenyellow;
     text-align: center;
+
 
 }
 #groc-table{
-    text-align: center;
-    align-content: center;
-    padding: 20px;
-    
-    border: cadetblue;
-    border: 10px;
+  margin: 0%;
+  padding: 0%;
+    text-align: center; 
     width: 100%;
 
     border-spacing: 2px;
@@ -35,20 +37,22 @@ html,body{
   text-align: center;
   font-family: fantasy;
   font-size: large;
-  background-color:blanchedalmond;
+  background-color:greenyellow ;
 }
 
 #sel1{
- 
-  background-color: thistle;
+ margin: 0em;
+ padding: 0em;
+  background-color:rgb(221, 255, 71);
  margin-left: 30%;
   width: 40%;
+  color: black;
   
 }
-btn{
+/* btn{
   width: 50px;
   align-items: center;
   color: yellowgreen;
   background-color: yellowgreen;
 
-}
+} */
