@@ -1,7 +1,0 @@
-<h1> AJAX </h1>
-
-<h2> AJAX is not a programming language </h2>
-
-<p>AJAX is used an Asynchronous Javascript XML Request to send to the server from the client and vise versa
-AJAX has a specified structure, and it is used in APIs when using connceting two or more applications. 
-AJAX's most useful property is when it is used to send and recieve requests without making the client wait too long on a webpage.</p>
