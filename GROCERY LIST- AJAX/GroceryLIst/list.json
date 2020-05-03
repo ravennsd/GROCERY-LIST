@@ -1,0 +1,100 @@
+{
+    "GROLIST": [
+        {
+            
+        "Serial No.": "1",
+        "ITEM": "RICE",
+        "QUANTITY": "5KG",
+        "UNITS": "NIL",
+        "DEPARTMENT": "EDIBLES",
+        "NOTES": "BROWN RICE 3KG AND WHITE RICE 2KG"
+            
+        },
+        {
+                 
+        "Serial No.": "2",
+        "ITEM": "CARROTS",
+        "QUANTITY": "NIL",
+        "UNITS": "5",
+        "DEPARTMENT": "EDIBLES",
+        "NOTES": "5 NOs OR 1KG"
+        },
+        {
+                 
+        "Serial No.": "3",
+        "ITEM": "POTATO",
+        "QUANTITY": "2KG",
+        "UNITS": "NIL",
+        "DEPARTMENT": "EDIBLES",
+        "NOTES": "NIL"
+        },
+        {
+                 
+            "Serial No.": "4",
+            "ITEM": "SUGAR",
+            "QUANTITY": "3KG",
+            "UNITS": "NIL",
+            "DEPARTMENT": "EDIBLES",
+            "NOTES": "ORGANIC AND PACKAGED, OR LOOSE NON-SULPHUR"
+            },
+        
+        {
+                 
+        "Serial No.": "5",
+        "ITEM": "GARAM MASALA",
+        "QUANTITY": "NIL",
+        "UNITS": "2 PACKETS",
+        "DEPARTMENT": "EDIBLES",
+        "NOTES": "KITCHEN TREASURES OR EASTERN"
+        },
+
+        {
+                 
+            "Serial No.": "6",
+            "ITEM": "MILK",
+            "QUANTITY": "2 LITRES",
+            "UNITS": "4 PACKETS",
+            "DEPARTMENT": "EDIBLES",
+            "NOTES": "2 LITRES OR 4 PACKETS OF MILMA HOMOGENISED MILK"
+            },
+
+         {
+                 
+                "Serial No.": "7",
+                "ITEM": "KITCHEN TOWELS",
+                "QUANTITY": "NIL",
+                "UNITS": "2",
+                "DEPARTMENT": "KITCHEN ESSENTIALS",
+                "NOTES": "ASK FOR COTTON KITCHEN TOWELS"
+         },
+
+         {
+                 
+            "Serial No.": "8",
+            "ITEM": "SOAP",
+            "QUANTITY": "NIL",
+            "UNITS": "2",
+            "DEPARTMENT": "HOME ESSENTIALS",
+            "NOTES": "BATH SOAP. SANTOOR OR PEARS"
+            },
+        {
+                 
+                "Serial No.": "9",
+                "ITEM": "VIM LIQUID",
+                "QUANTITY": "250 ml",
+                "UNITS": "1",
+                "DEPARTMENT": "KITCHEN ESSENTIALS",
+                "NOTES": "BUY PRILL IF VIM IS NOT AVAILABLE"
+                },
+            
+        {
+                 
+        "Serial No.": "10",
+        "ITEM": "CHOCOLATES",
+        "QUANTITY": "NIL",
+        "UNITS": "5",
+        "DEPARTMENT": "EDIBLES",
+        "NOTES": "DAIRY MILK OR SAFARI SMALL ONES"
+        }
+    ]
+}

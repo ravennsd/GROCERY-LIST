@@ -1,0 +1,47 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+}
+
+#head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: forestgreen;
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
+#groc-table{
+    text-align: center;
+    align-content: center;
+    padding: 20px;
+    
+    border: cadetblue;
+    border: 10px;
+    width: 100%;
+
+    border-spacing: 2px;
+    background-color: tomato;
+    border-color: whitesmoke;
+}
+
+.form-control{
+  background-attachment: yellow;
+}
+
+.form-group{
+  margin:0px;
+  padding: 0px;
+  background-color:blanchedalmond;
+}
+
+#seli{
+  background-color: thistle;
+}
+btn{
+  width: 50px;
+  align-items: center;
+  color: yellowgreen;
+  background-color: yellowgreen;
+
+}
